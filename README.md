@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 # Hey, I'm Darshan 👋
 
 # 🌱 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vinayak6536&theme=high-contrast)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshu575&theme=high-contrast)
 
 ## 🔥 GitHub Streaks
-![GitHub Streak](https://streak-stats.demolab.com?user=Vinayak6536&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=darshu575&theme=github-dark&hide_border=true)
 
