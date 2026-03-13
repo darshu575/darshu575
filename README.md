@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hey, I'm Darshan 👋
 
 <!--
 **darshu575/darshu575** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey, I'm Darshan 👋
+
 
 # 🌱 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=darshu575&theme=high-contrast)
